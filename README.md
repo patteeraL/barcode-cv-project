@@ -25,7 +25,7 @@ The generated barcode image is saved as output.png in the working directory.
 ### Encoding a Text to Barcode
 ```
 from barcode_script import encode
-encode("Abbas Cheddad")
+encode("Patteera Lerdtada")
 ```
 This will generate a barcode for the string "Abbas Cheddad" and save it as output.png.
 ### Decoding the Barcode
