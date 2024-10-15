@@ -39,4 +39,4 @@ print(decoded_text)
 This will decode the barcode saved in output.png and print the original text.
 
 ## Author
-Developed by [Patteera Lerdtada]
+Developed by Patteera Lerdtada.
